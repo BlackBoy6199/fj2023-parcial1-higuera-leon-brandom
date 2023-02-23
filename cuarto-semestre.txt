@@ -1,0 +1,3 @@
+materia:investigacion de operaciones.
+materia:sistemas operativos 1.
+materia:desarrollo web 1.
