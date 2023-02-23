@@ -1,0 +1,3 @@
+materia:costos.
+materia:fundamentos de economia.
+materia:estructura de datos.
